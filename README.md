@@ -17,7 +17,7 @@
 
 <br>
 
-- Hi! I'm a Computer Science student at EAFIT University (Medellín, Colombia) 💛
+- I'm a Computer Science student at EAFIT University (Medellín, Colombia) 💛💙❤️
 - I have been a motivated attitude person interested in the areas of Machine and Deep learning, Data Science and Front-End web development especially when applying to real life and community problems.
 - I like to go around my city and see how technology can transform lives for a better.
 - I’m currently open for an Intern or a new job opportunity, you can find my resume attached to my LinkedIn's profile page.
