@@ -17,11 +17,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Hi! I'm a Computer Science student at EAFIT University (Medellín, Colombia) 💛
+- I have been a motivated attitude person interested in the areas of Machine and Deep learning, Data Science and Front-End web development especially when applying to real life and community problems.
+- I like to go around my city and see how technology can transform lives for a better.
+- I’m currently open for an Intern or a new job opportunity, you can find my resume attached to my LinkedIn's profile page.
 
 <br><br>
 
@@ -65,10 +64,6 @@
 
 <br>
 
-- **Extras**:
-
-
-
 </p>
 
 <br>
@@ -107,7 +102,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<a href="https://www.linkedin.com/in/diegomunerat/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -115,15 +110,7 @@
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<a href="mailto:damunerat@eafit.edu.co" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
